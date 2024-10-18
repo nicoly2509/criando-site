@@ -40,4 +40,21 @@ footer img {
 footer {
     display: flex;
     justify-content: center;
+} 
+
+footer {
+    margin: 20px;
+    text-align: ;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:houver {
+    color: white;
 }
